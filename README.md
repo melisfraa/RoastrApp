@@ -56,7 +56,7 @@ Il progetto è pensato per crescere! Prossime funzionalità includono:
 
 ## 📧 Contatti  
 Hai idee, suggerimenti o bisogno di aiuto?  
-Scrivimi a [roastrapp@example.com](mailto:roastrapp@example.com).  
+Scrivimi a [melis.fraa@gmail.com](mailto:melis.fraa@gmail.com).  
 
 ---
 
