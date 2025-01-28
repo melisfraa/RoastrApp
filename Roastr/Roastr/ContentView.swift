@@ -52,7 +52,7 @@ struct ContentView: View {
                 }
                 .padding(.top, 20)
                 
-                // STAR AND SETTINGS BUTTONS
+                // STAR, SHARE and SETTINGS BUTTONS
                 if !viewModel.selectedRoast.isEmpty {
                     HStack(spacing: 20) {
                         Button(action: { viewModel.toggleFavorite() }) {
