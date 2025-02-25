@@ -39,6 +39,8 @@ Un design pensato per offrire un'esperienza immersiva e user-friendly, adattando
 
 https://github.com/user-attachments/assets/257d6cd7-e2d0-469c-bd18-00ad1ee58344
 
+---
+
 ## ⚙️ Tecnologie Utilizzate  
 - **Linguaggio:** Swift (SwiftUI)  
 - **Framework:** AVFoundation (Sintesi vocale)  
