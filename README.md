@@ -4,7 +4,7 @@
 ---
 
 ## 🎨 Ideato e Sviluppato da  
-Francesco Melis – *UX/UI Designer, Laureando in Informatica e Tecnologie per la Produzione del Software*  
+Francesco Melis – *UX/UI Design student, Laureando in Informatica e Tecnologie per la Produzione del Software*  
 - 📧 Email: [melis.fraa@gmail.com](mailto:melis.fraa@gmail.com)  
 - 🔗 LinkedIn: [Francesco Melis](https://www.linkedin.com/in/francesco-melis-a517b8198/)  
 - 💻 GitHub: [melisfraa](https://github.com/melisfraa)  
