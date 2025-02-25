@@ -1,5 +1,5 @@
 # Roastr 🔥  
-**Genera frasi pungenti in italiano e inglese, personalizzate per ogni momento!**  
+**Genera frasi pungenti in italiano e inglese, ovunque e in ogni momento!**  
 
 ---
 
