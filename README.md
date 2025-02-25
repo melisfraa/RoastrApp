@@ -14,11 +14,7 @@ Francesco Melis – *UX/UI Design student, Laureando in Informatica e Tecnologie
 ## 🚀 Descrizione  
 **Roastr** è un'applicazione iOS sviluppata in Swift con SwiftUI che porta l'umorismo ovunque tu vada. Con un design intuitivo e funzionalità avanzate, permette agli utenti di:  
 - 🎲 Generare frasi umoristiche o offensive in italiano e inglese.  
-- ❤️ Salvare e gestire i "roast
-
-https://github.com/user-attachments/assets/257d6cd7-e2d0-469c-bd18-00ad1ee58344
-
-s" preferiti.  
+- ❤️ Salvare e gestire i "roasts" preferiti.  
 - 🔗 Condividere il divertimento con amici tramite un'azione di sistema.  
 - 🔊 Ascoltare le frasi con sintesi vocale per un tocco extra di comicità.  
 - 🌐 Cambiare lingua facilmente tra inglese e italiano.  
@@ -40,6 +36,8 @@ L'app segue l'architettura **MVVM** (Model-View-ViewModel) per una chiara separa
 Un design pensato per offrire un'esperienza immersiva e user-friendly, adattandosi a dispositivi iPhone e iPad.  
 
 ---
+
+https://github.com/user-attachments/assets/257d6cd7-e2d0-469c-bd18-00ad1ee58344
 
 ## ⚙️ Tecnologie Utilizzate  
 - **Linguaggio:** Swift (SwiftUI)  
